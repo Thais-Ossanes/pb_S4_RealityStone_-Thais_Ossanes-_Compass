@@ -1,3 +1,5 @@
 # Comandos e Funcionalidades #
 
-<img src="/Resumos/img/ordem.jpg">
+<head> 
+    <img src="/Resumos/img/ordem.jpg">
+</head>
