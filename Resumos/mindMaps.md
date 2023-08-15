@@ -6,7 +6,7 @@ Em sequência, os mapas mentais desenvolvidos sobre o conteúdo apresentado. Alg
 
 ## Ordem para publicar as alterações feitas ##
 ** Abrir o GitBash na diretório onde esses comandos vão ser executados e postados.
-<br>
+<br><br>
 <img src="/Resumos/img/ordem.jpg">
 
 </head>

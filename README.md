@@ -5,7 +5,7 @@ Comecei pelo GitHub e depois trouxe para o Git e criei o repositório na minha m
 
 <a href="https://www.alura.com.br/artigos/clonando-repositorio-git-github">Como Clonar um Repositório GitHub</a>
 
-## Diretório - > Resumo
+## Diretório - > Resumos
 Estão todas as etapas de desenvolvimento dos arquivos .md, algumas práticas simples durante a Sprint, os mapas mentais e a bibliografia de pesquisa.
 ## Diretório - > Ruby
 Nessa pasta estão todos os códigos desenvolvidos em Ruby de acordo com o avanço na Sprint.
