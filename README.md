@@ -1,11 +1,13 @@
 #  <img src ="/Resumos/img/ruby.png"> Reality Stone -_Thaís_Ossanes_- T05
 
-Deixei aqui um exemplo de como eu acabei fazendo o repositório, fiz "de trás pra frente". 
-Comecei pelo GitHub e depois trouxe para o Git e criei o repositório na minha máquina.
+No presente repositório, está todo o processo de aprendizado e desenvolvimento, proposto na Sprint 4 do Programa de Bolsas Uol.Compass.
 
-<a href="https://www.alura.com.br/artigos/clonando-repositorio-git-github">Como Clonar um Repositório GitHub</a>
+Será apresentada a calculadora desenvolvida juntamente com os testes unitários desenvolvidos para ela, em sequência, o processo de aprendizado da linuguagem Ruby com alguns códigos iniciais e, por último, os resumos realizados para maior fixação do conteúdo e a bibliografia de pesquisa.
 
-## Diretório - > Resumos
-Estão todas as etapas de desenvolvimento dos arquivos .md, algumas práticas simples durante a Sprint, os mapas mentais e a bibliografia de pesquisa.
-## Diretório - > Ruby
+
+## ↳ Calculadora
+
+## ↳ Ruby
 Nessa pasta estão todos os códigos desenvolvidos em Ruby de acordo com o avanço na Sprint.
+## ↳ Resumos
+Estão todas as etapas de desenvolvimento dos arquivos .md, algumas práticas simples durante a Sprint, os mapas mentais e a bibliografia de pesquisa.
