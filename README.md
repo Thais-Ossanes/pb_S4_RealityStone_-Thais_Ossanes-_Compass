@@ -4,10 +4,7 @@ No presente repositório, está todo o processo de aprendizado e desenvolvimento
 
 Será apresentada a calculadora desenvolvida juntamente com os testes unitários desenvolvidos para ela, em sequência, o processo de aprendizado da linuguagem Ruby com alguns códigos iniciais e, por último, os resumos realizados para maior fixação do conteúdo e a bibliografia de pesquisa.
 
-~~~html
- <a src="/Calculadora"> <h1> ↳ Calculadora </h1> </a>
-~~~
-<a src=""> </a> ## ↳ Calculadora 
+## ↳ Calculadora 
 
 ## ↳ Ruby
 Nessa pasta estão todos os códigos desenvolvidos em Ruby de acordo com o avanço na Sprint.

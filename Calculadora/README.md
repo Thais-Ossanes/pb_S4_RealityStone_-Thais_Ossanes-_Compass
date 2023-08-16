@@ -1,7 +1,7 @@
 ## Instruções Gerais para o Funcionamento da Calculadora ⇩⇩⇩ ##
 
-### Preparação de Ambiente ###
+# Preparação de Ambiente #
 
-### Copiando os arquivos .zip ###
+# Copiando os arquivos .zip #
 
-#### Extraindo ####
+## Extraindo ##
