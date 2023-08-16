@@ -11,15 +11,16 @@ Comecei pelo GitHub e depois trouxe para o Git e criei o repositório na minha m
 <a href="https://www.alura.com.br/artigos/clonando-repositorio-git-github">Como Clonar um Repositório GitHub</a>
 
 
-arquivos Koans que foram realizados
-- >about_asserts.rb
-- >about_arrays.rb
+### ↳ Solicitados: 
+- >about_arrays.rb<a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
+- >about_asserts.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
+- >about_classes.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
+- >about_interation.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
+- >about_methods.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
+- >about_modules.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
+- > about_true_and_false.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
+
+### ↳ Extras
+- >about_assertions.rb
 
 
-about_methods.rb
- - > about_true_and_false.rb
-about_assertions.rb
-about_modules.rb
-- > about_arrays.rb
-about_classes.rb
-- >about_interation.rb
