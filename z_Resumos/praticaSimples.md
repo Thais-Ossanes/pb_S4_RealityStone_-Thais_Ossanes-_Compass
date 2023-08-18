@@ -9,18 +9,3 @@ Deixei aqui um exemplo de como eu acabei fazendo o repositório, fiz "de trás p
 Comecei pelo GitHub e depois trouxe para o Git e criei o repositório na minha máquina.
 
 <a href="https://www.alura.com.br/artigos/clonando-repositorio-git-github">Como Clonar um Repositório GitHub</a>
-
-
-### ↳ Solicitados: 
-- >about_arrays.rb<a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
-- >about_asserts.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
-- >about_classes.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
-- >about_interation.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
-- >about_methods.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
-- >about_modules.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
-- > about_true_and_false.rb <a href="\Ruby_Koans\about_arrays.rb"> »file« </a>
-
-### ↳ Extras
-- >about_assertions.rb
-
-
