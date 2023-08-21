@@ -23,12 +23,12 @@ Tendo os pré-requistos, partimos para a preparaçãpo do ambiente e as instruç
 ## Preparação de Ambiente ##
 
 1. VScode
-<br>
+
 Com o programa aberto, selecionamos as abas 'view -> extensions' **atalho Crtl+Shift+X** <br>
 Sugestão de extensões: Ruby, Snippets and Syntax Highlight for Gherkin (Cucumber), Gherkin Indent, EditorConfig, Ruby Solargraph e Code Runner.
 
 2. Cmder
-<br>
+
 Abrir o terminal e executar os seguintes comandos: <br>
 gem install win32console<br>
 gem install bundler<br>
@@ -39,8 +39,6 @@ Conferir as gem's instaladas com o comando: gem list ou gem list bundler + (nome
 
 ## Clonando o Diretório ##
 Obs: caso você queira clonar todo o repositório para o seu GitHub, siga os passos do [README](../README.md) da main. 
-<br>
-
 1. Crie uma nova pasta na sua máquina;
 2. Abra o Git Bash na pasta criada;
 3. Entre com o comando: **git clone -n [https://github.com/Thais-Ossanes/2_RealityStone_-Thais_Ossanes-_Compass.git ]**;
@@ -50,7 +48,8 @@ Obs: caso você queira clonar todo o repositório para o seu GitHub, siga os pas
 6. Entre com o comando **git checkout HEAD [Calculadora]**
 7. Comando **ls** confirma se a pasta foi clonada;
 8. Entre com o comando **cd Calculadora**;
-9. Entre com o comando **code .** (abrirá os aquivos no VScode)
+9. Entre com o comando **code .** (abrirá os aquivos no VScode);
+10. Abra o Cmder na pasta 'Calculadora' e entre com o comando **bundle install** (assim serão instaladas as gem's **rspec**  e **pry** contidas no arquivo 'Gemfile').
 
 ## Executando ##
 
