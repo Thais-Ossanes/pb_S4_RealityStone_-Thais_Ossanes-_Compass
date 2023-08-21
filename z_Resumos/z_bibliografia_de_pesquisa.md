@@ -1,12 +1,6 @@
 # Pesquisas Realizadas e Sites Úteis #
 
-<head>
-
-</head>
-
-<body>
-
-<div>
+Foram realizadas diversas pesquisas sobre a linguagem ruby e a utilização do GitHub. Deixo em destaque o site <a href = "https://pt.stackoverflow.com/"> Stack Over Flow </a> onde eu pude aprender com as dúvidas de várias pessoas, e também me ajudou bastante a resolver alguns bugs que encontrei pelo caminho.
 
 ## Bibliografia de Pesquisas ##
 
@@ -20,10 +14,11 @@
 <br>
 ... https://ifrnead.github.io/rubynapratica/contents/programacao_estruturada/operadores_logicos_precedencia_operadores.html
 <br>
-... 
-<br> https://carlos-augusto-roque.medium.com/clonagem-de-repositório-no-github-como-clonar-apenas-uma-pasta-ou-um-arquivo-de-um-repositório-9baaad5ea3d8#:~:text=Execute%20o%20comando%20%3A%20git%20checkout,apenas%20a%20pasta%20“pages”.
+... https://gist.github.com/ifasanelli/ab0544386a18aad0741fd3ffbc86af09
+<br>
+... https://carlos-augusto-roque.medium.com/clonagem-de-repositório-no-github-como-clonar-apenas-uma-pasta-ou-um-arquivo-de-um-repositório-9baaad5ea3d8#:~:text=Execute%20o%20comando%20%3A%20git%20checkout,apenas%20a%20pasta%20“pages”.
 ... https://docs.github.com/pt/contributing/writing-for-github-docs/style-guide 
 <br>
-
+... https://rspec.info/documentation/3.12/rspec-expectations/ 
 </div>
 </body>

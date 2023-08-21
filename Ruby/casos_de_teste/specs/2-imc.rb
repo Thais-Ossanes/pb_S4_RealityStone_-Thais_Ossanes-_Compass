@@ -16,7 +16,7 @@ describe("IMC") do
 
     end
 
-    it ("Não deve calcular o IMC para altura = 0")do #outro caso de testes
+    it("Não deve calcular o IMC para altura = 0")do #outro caso de testes
         peso = 60
         altura = 0
         expect(imc(peso, altura)).to include "Não é possível calcular o IMC para altura = 0" #mensagem precisa ser igual ao return

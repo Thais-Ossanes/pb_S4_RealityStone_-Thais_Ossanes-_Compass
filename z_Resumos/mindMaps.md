@@ -10,9 +10,3 @@ Em sequência, os mapas mentais desenvolvidos sobre o conteúdo apresentado. Alg
 <img src="/z_Resumos/img/ordem.jpg">
 
 </head>
-
-<body> 
-
-
-
-</body>

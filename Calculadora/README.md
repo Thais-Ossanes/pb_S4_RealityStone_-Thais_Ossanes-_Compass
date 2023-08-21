@@ -53,16 +53,28 @@ Obs: caso você queira clonar todo o repositório para o seu GitHub, siga os pas
 
 ## Executando ##
 
-Abra o Cmder na pasta 'Calculadora' e entre com o comando **bundle install** (assim serão instaladas as gem's **rspec**  e **pry** contidas no arquivo 'Gemfile').
+Abra o Cmder na pasta 'Calculadora -> **Arquivos**' e entre com o comando **bundle install** (assim serão instaladas as gem's **rspec**  e **pry** contidas no arquivo 'Gemfile').
 Após instalar as Gem's entre com o Cmder na pasta 'specs' e execute o arquivo 'calculadora_spec.rb' => comando => **Rspec calculadora_spec.rb**. No terminal do VScode é o mesmo comando, só é necessário abrir um terminal direto no arquivo selecionado (atalho ctrl + shift + ')
 <br>
 Ele deve resultar em algo parecido com essa imagem: 
 
 ## Classes e Métodos ##
 
+Classes:
+- > Calculadora => realizada todas as operações lógicas
+- > Expressoes => mostra a maneira esperada de montar uma expressão
+- > Erro => mostra um tipo de erro e a respota ao usuário
 
+Métodos:
+- > soma
+- > subtracao
+- > multiplicacao
+- > divisao
+- > letras => mostra um caso onde há soma com letras e números
 
 
 ## Sites que Podem te Ajudar ##
 
 <a href="https://carlos-augusto-roque.medium.com/clonagem-de-repositório-no-github-como-clonar-apenas-uma-pasta-ou-um-arquivo-de-um-repositório-9baaad5ea3d8#:~:text=Execute%20o%20comando%20%3A%20git%20checkout,apenas%20a%20pasta%20“pages”.">Como clonar um diretório no GitHub</a>
+<br>
+<a href = "https://www.youtube.com/watch?v=UBAX-13g8OM">Como usar git e github</a>
