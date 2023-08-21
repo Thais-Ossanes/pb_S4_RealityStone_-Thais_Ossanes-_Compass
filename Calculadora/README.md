@@ -49,11 +49,12 @@ Obs: caso você queira clonar todo o repositório para o seu GitHub, siga os pas
 7. Comando **ls** confirma se a pasta foi clonada;
 8. Entre com o comando **cd Calculadora**;
 9. Entre com o comando **code .** (abrirá os aquivos no VScode);
-10. Abra o Cmder na pasta 'Calculadora' e entre com o comando **bundle install** (assim serão instaladas as gem's **rspec**  e **pry** contidas no arquivo 'Gemfile').
+10. 
 
 ## Executando ##
 
-Após abrir os arquivos da 'Calculadora' dentro do VScode, abra o Cmder na pasta 'specs' e execute o arquivo 'calculadora_spec.rb' => comando => **Rspec calculadora_spec.rb**. No terminal do VScode é o mesmo comando, só é necessário abrir um terminal direto no arquivo selecionado (atalho ctrl + shift + ')
+Abra o Cmder na pasta 'Calculadora' e entre com o comando **bundle install** (assim serão instaladas as gem's **rspec**  e **pry** contidas no arquivo 'Gemfile').
+Após instalar as Gem's entre com o Cmder na pasta 'specs' e execute o arquivo 'calculadora_spec.rb' => comando => **Rspec calculadora_spec.rb**. No terminal do VScode é o mesmo comando, só é necessário abrir um terminal direto no arquivo selecionado (atalho ctrl + shift + ')
 <br>
 Ele deve resultar em algo parecido com essa imagem: 
 
