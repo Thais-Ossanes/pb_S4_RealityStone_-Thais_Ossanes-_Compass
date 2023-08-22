@@ -1,7 +1,3 @@
-# Apresentação Visual das Funcionalidades em Ruby #
-
-Neste documento estão gifs que apresentam as funcionalidades desenvolvidas em ruby, cada uma de acordo com o nome do arquivo em que está contido o código fonte.
-
 # Ruby Koans #
 
 Nesse exercício eu tive dificuldade de entender o 'assert_raise' e a inserção das classes de erro, mas com um pouco de pesquisa e verificando casos de testes consegui entender e solucionar o Koans. Esse <a href="https://serradura.github.io/pt-BR/blog/introducao-a-testes-automatizados-com-ruby/">link</a> me ajudou ☺. 
