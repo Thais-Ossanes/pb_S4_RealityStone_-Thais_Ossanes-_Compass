@@ -49,7 +49,6 @@ Obs: caso você queira clonar todo o repositório para o seu GitHub, siga os pas
 7. Comando **ls** confirma se a pasta foi clonada;
 8. Entre com o comando **cd Calculadora**;
 9. Entre com o comando **code .** (abrirá os aquivos no VScode);
-10. 
 
 ## Executando ##
 
@@ -71,7 +70,6 @@ Métodos:
 - > multiplicacao
 - > divisao
 - > letras => mostra um caso onde há soma com letras e números
-
 
 ## Sites que Podem te Ajudar ##
 
