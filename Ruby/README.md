@@ -16,6 +16,3 @@ Nesse exercício eu tive dificuldade de entender o 'assert_raise' e a inserção
 ### ↳ Extras ###
 - >about_assertions.rb
 
-## 1-primeira_calculadora.rb ##
-
-## 2-primeiro_codigo.rb ## 
