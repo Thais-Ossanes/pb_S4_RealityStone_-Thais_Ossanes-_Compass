@@ -33,14 +33,5 @@ class Expressoes
         end
         b + (a * c)
     end
-
     
 end
-
-   #def multiplicacao(x, y, z)
-   #     if (x * y == z)
-            
-   #     else (y / z == x)
-            
-   #     end
-    # end
